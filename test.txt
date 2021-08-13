@@ -9,6 +9,12 @@ this is my test file
 
 check if this is working
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> newbranch
+=======
+
+
+mynewtesting
 >>>>>>> newbranch
 =======
 
